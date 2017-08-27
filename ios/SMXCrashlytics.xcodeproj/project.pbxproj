@@ -237,6 +237,7 @@
 					"$(SRCROOT)/../example/ios",
 					"$(SRCROOT)/../../../ios",
 					"$(SRCROOT)/../../../",
+					"$(SRCROOT)/../../../ios/Pods/Crashlytics/iOS",
 				);
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -292,6 +293,7 @@
 					"$(SRCROOT)/../example/ios",
 					"$(SRCROOT)/../../../ios",
 					"$(SRCROOT)/../../../",
+					"$(SRCROOT)/../../../ios/Pods/Crashlytics/iOS",
 				);
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
